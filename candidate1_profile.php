@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <!-- Meta tags, title, and CSS links -->
   <!-- Bootstrap CSS -->
@@ -9,10 +10,11 @@
     /* Your custom styles here */
   </style>
 </head>
+
 <body>
 
   <!-- Header -->
-<!-- <nav> -->
+  <!-- <nav> -->
   <!-- Your header content here -->
 
   <!-- Candidate Profile Section -->
@@ -20,7 +22,9 @@
     <div class="row">
       <div class="col-md-4">
         <!-- Candidate Image -->
-        <img src="candidate_images/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-smiling-friendly-polite-assist-customer-white-background.jpg" class="img-fluid" alt="Candidate Image">
+        <img
+          src="candidate_images/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-smiling-friendly-polite-assist-customer-white-background.jpg"
+          class="img-fluid" alt="Candidate Image">
       </div>
       <div class="col-md-8">
         <!-- Candidate Details -->
@@ -51,4 +55,5 @@
     // Your custom scripts here
   </script>
 </body>
+
 </html>

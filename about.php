@@ -71,7 +71,7 @@
 
   <!-- Welcome message -->
   <div class="welnote">
-    <h1>Welcome to our Community Voting System!</h1>
+    <h1>About Us</h1>
     <p>Your participation matters greatly. This platform is where your opinions shape our shared future. Take the
       opportunity to engage in our democratic process, evaluating and electing leaders who will drive positive change
       within our community. Together, let's build a stronger, more unified community where every voice counts, every
@@ -189,7 +189,6 @@
     </div>
   </footer>
 
-  <script src="main.js"></script>
 </body>
 
 </html>

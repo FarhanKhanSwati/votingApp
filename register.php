@@ -1,22 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    /* Custom styles can be added here */
-    .login-form {
-      max-width: 400px;
-      margin: 50px auto; /* Center the form vertically and horizontally */
-      padding: 30px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-    }
-    .form-group {
-      margin-bottom: 20px;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   <div class="container">
     <form class="login-form">
@@ -59,4 +49,5 @@
   <!-- Bootstrap JS -->
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
